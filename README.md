@@ -1,2 +1,1 @@
-vue3 learnings 
-option API
+#PRACTICE OF OPTION API (VUE3)
